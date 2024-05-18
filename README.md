@@ -46,7 +46,7 @@ thumbnail - generate video thumbnail 🌁
 ```
 
 ### BUY ME A COFFEE ❤️
-<a href="https://www.buymeacoffee.com/djpreet3215" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/djpreet3215" target="_blank"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NhMW53d3N6OXM5OGljNGlicW9qdHdzcWsxNmJvNTYwcGd2bXJ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kmIZ4lx2ZHpr5jY0W4/giphy.gif" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### My Community Details
 
