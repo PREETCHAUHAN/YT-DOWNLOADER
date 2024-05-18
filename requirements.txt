@@ -1,0 +1,5 @@
+tgcrypto
+pyrogram
+yt_dlp
+flask
+gunicorn==20.1.0
