@@ -5,7 +5,6 @@ from Youtube.script import Translation
 from Youtube.forcesub import handle_force_subscribe
 
 
-########################🎊 Lisa | NT BOTS 🎊######################################################
 @Client.on_callback_query(filters.regex("cancel"))
 async def cancel(client, callback_query):
     await callback_query.message.delete()
