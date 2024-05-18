@@ -52,7 +52,7 @@ thumbnail - generate video thumbnail 🌁
 
 
 - YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=share)
-- Telegram Channel : [MY Bots ❤️‍🩹](https://t.me/PreetModzNetworkz/66)
-- Telegram Group : [MY Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
+- Telegram Channel : [My Bots ❤️‍🩹](https://t.me/PreetModzNetworkz/66)
+- Telegram Group : [My Bots Support 🎗️](https://t.me/MrBot02)
 - URL Uploader Bot : [Uploader Bot 🚀]( DEPLOYING SOON )
 - My Tg Id : [☘️DJや๖ۣۜℜEET](https://t.me/djpreetxbot)
