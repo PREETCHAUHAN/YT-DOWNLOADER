@@ -5,8 +5,6 @@ from pyrogram.errors import FloodWait, UserNotParticipant
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 
-########################🎊 Lisa | NT BOTS 🎊######################################################
-
 async def handle_force_subscribe(bot, message):
     try:
         invite_link = await bot.create_chat_invite_link(int(Config.CHANNEL))
@@ -43,5 +41,3 @@ async def handle_force_subscribe(bot, message):
             disable_web_page_preview=True,
         )
         return 400
-
-########################🎊 Lisa | NT BOTS 🎊######################################################
