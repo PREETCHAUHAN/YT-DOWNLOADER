@@ -56,3 +56,4 @@ thumbnail - generate video thumbnail 🌁
 - Telegram Group : [My Bots Support 🎗️](https://t.me/MrBot02)
 - URL Uploader Bot : [Uploader Bot 🚀]( DEPLOYING SOON )
 - My Tg Id : [☘️DJや๖ۣۜℜEET](https://t.me/djpreetxbot)
+- Credit : [Lisa 👑](https://t.me/LISA_FAN_LK)
