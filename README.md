@@ -51,7 +51,7 @@ thumbnail - generate video thumbnail 🌁
 ### My Community Details
 
 
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=share)
+- YouTube Channel : [DJ Junction 🎧](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA/featured?sub_confirmation=1)
 - Telegram Channel : [My Bots ❤️‍🩹](https://t.me/PreetModzNetworkz/66)
 - Telegram Group : [My Bots Support 🎗️](https://t.me/MrBot02)
 - URL Uploader Bot : [Uploader Bot 🚀]( DEPLOYING SOON )
