@@ -43,7 +43,7 @@ async def start(client, message):
                 InlineKeyboardButton('📍 Update Channel', url='https://t.me/PreetModzNetworkz'),
             ],
             [
-                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/djpreetXBot),
+                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/djpreetXBot'),
                 InlineKeyboardButton('👥 Support Group', url='https://t.me/MrBot02'),
             ],
             [
