@@ -41,3 +41,5 @@ async def handle_force_subscribe(bot, message):
             disable_web_page_preview=True,
         )
         return 400
+
+
