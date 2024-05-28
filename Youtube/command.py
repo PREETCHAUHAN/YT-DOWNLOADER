@@ -5,6 +5,7 @@ from Youtube.script import Translation
 from Youtube.forcesub import handle_force_subscribe
 
 
+
 @Client.on_callback_query(filters.regex("cancel"))
 async def cancel(client, callback_query):
     await callback_query.message.delete()
@@ -42,7 +43,7 @@ async def start(client, message):
                 InlineKeyboardButton('📍 Update Channel', url='https://t.me/PreetModzNetworkz'),
             ],
             [
-                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/djpreetxbot'),
+                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/djpreetXBot),
                 InlineKeyboardButton('👥 Support Group', url='https://t.me/MrBot02'),
             ],
             [
@@ -61,6 +62,8 @@ To upload a YouTube video, simply send me the YouTube link.
     
 Enjoy using the bot!
 
-   ©️ Channel : @PreetModzNetworkz
+   ©️ Channel : @preetmodz
     """
     message.reply_text(help_text)
+
+
