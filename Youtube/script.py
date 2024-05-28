@@ -10,6 +10,6 @@ class Translation(object):
 ├👥 **Support Group** : [MY BOTS SUPPORT](https://t.me/MrBo02)
 ├🥏 **Channel** : [MY BOT CHANNEL](https:t.me/PreetModzNetworkz/66)
 ├⛲ **Source** : [Click Here](https://github.com/PREETCHAUHAN/YT-DOWNLOADER)
-├🎓 **Developer** : [☘️DJや๖ۣۜℜEET ⚡️](https://t.me/djpreetXBot)
+├🎓 **Developer** : [☘️DJや๖ۣۜℜEET⚡️](https://t.me/djpreetXBot)
 ╰───────────────⍟
 """
