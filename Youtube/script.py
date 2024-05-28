@@ -4,7 +4,7 @@ class Translation(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├📛 **My Name** : [YouTube Video Downloader Bot](https://t.me/YTVD1bot)
+├📛 **My Name** : [YouTube Video Downloader](https://t.me/YTVD1bot)
 ├📢 **Framework** : [Pyrogram 2.0.106](https://docs.pyrogram.org/)
 ├💮 **Language** : [Python 3.12.3](https://www.python.org)
 ├👥 **Support Group** : [MY BOTS SUPPORT](https://t.me/MrBo02)
