@@ -1,4 +1,3 @@
-import logging
 import asyncio
 import yt_dlp
 from pyrogram import Client, filters
@@ -45,7 +44,7 @@ async def process_youtube_link(client, message):
                 await downloading_msg.delete()
                 await uploading_msg.delete()
 
-                await message.reply_text("\n\nOWNER : @djpreetxBot ⚡️\n\nSUCCESSFULLY UPLOADED!")
+                await message.reply_text("\n\nOWNER : @djpreetXBot ⚡️\n\nSUCCESSFULLY UPLOADED!")
             else:
                 logging.error("No video streams found.")
                 await message.reply_text("Error: No downloadable video found.")
