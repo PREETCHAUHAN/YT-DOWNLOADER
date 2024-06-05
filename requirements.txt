@@ -3,4 +3,4 @@ pyrogram
 yt_dlp
 flask
 pytz
-gunicorn==20.1.0
+gunicorn==22.1.0
