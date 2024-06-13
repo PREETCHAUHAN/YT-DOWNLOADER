@@ -52,9 +52,8 @@ date - check date and time 🕰️
 ### My Community Details
 
 
-- YouTube Channel : [DJ Junction 🎧](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA/featured?sub_confirmation=1)
+- YouTube Channel : [DJ JUNCTION](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA/featured?sub_confirmation=1)
 - Telegram Channel : [My Bots ❤️‍🩹](https://t.me/PreetModzNetworkz/66)
 - Telegram Group : [My Bots Support 🎗️](https://t.me/MrBot02)
-- URL Uploader Bot : [Uploader Bot 🚀]( DEPLOYING SOON )
 - My Tg Id : [☘️DJや๖ۣۜℜEET](https://t.me/djpreetxbot)
 - Credit : [Lisa 👑](https://t.me/LISA_FAN_LK)
